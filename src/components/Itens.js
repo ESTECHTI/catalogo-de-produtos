@@ -26,10 +26,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#FFFFFF',
     borderWidth: 0.5,
     borderColor: "#999",
-    marginTop: 20,
-    marginLeft: 10,
-    marginRight: 10,
-    marginBottom: 10,
+    margin: 10,
     padding: 10,
     flexDirection: "row"
   },
